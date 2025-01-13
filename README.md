@@ -26,7 +26,7 @@ The data set contains the following diseases:
 
 ## Conclusions
 - It's clearly visible that accuracy has been improved & there is no signs of overfitting or underfitting of the learning algorithm using Augmentor library 
-- Using Dropout help learning algorithm to improve on accuracy
+- Dropout helped learning algorithm to improve on accuracy
 - The implementation of class rebalancing using Augmentor library has enhanced the model's performance across both training and validation datasets
 - Finally the model has 75% training and 76% validating accuracy
 
